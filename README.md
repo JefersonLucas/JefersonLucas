@@ -1,8 +1,8 @@
 <p align="center">	
-	<h1 align="center">Jeferson Lucas :octocat: :brazil:</h1>
+	<h1 align="center">Jeferson Lucas :brazil:</h1>
 </p>
 <p>
-    <p align="center"><em>25 years old, a nerd in love with music, games and technology.</em></p>
+    <p align="center"><em>26 years old, a nerd in love with music, games and technology.</em></p>
     <p align="center">I love programming in JS and CSS. :vulcan_salute: :man_technologist:</p>
     <p align="center">
 	<img src="https://img.shields.io/github/followers/JefersonLucas?style=social" alt="GitHub">
