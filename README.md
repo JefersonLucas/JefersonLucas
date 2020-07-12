@@ -1,6 +1,5 @@
 <p align="center">	
-	<h1 align="center">Jeferson Luckas :brazil: :octocat:</h1>
-</p>
+	<h1 align="center">Jeferson Luckas :octocat: :brazil:</h1>
 </p>
 <p>
     <p align="center"><em>25 years old, a nerd in love with music, games and technology. :man_technologist: :vulcan_salute:</em></p>
