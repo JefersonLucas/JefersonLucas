@@ -5,23 +5,30 @@
 	<img src="perfil.png" width="200">
 </p>
 <p>
-    <p align="center"><em>I'm 25 years old, I'm passionate about music, games and technology.</em></p>
-    <p align="center">I love programming in JS and CSS. :vulcan_salute: :man_technologist:</p>
+    <p align="center"><em>I'm 25 years old, I'm passionate about music, games and technology. I love programming in JS and CSS. :heart:</em></p>
     <p align="center">
-		<img src="https://img.shields.io/github/followers/JefersonLucas?style=social" alt="GitHub">
-		<img src="https://img.shields.io/twitter/url?label=JefersonLuckas&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dsocial%26url%3Ditter.com%252FJefersonLuckas" alt="Twitter">
-		<img src="https://img.shields.io/badge/-jefersonlucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-lucas/" alt="Linkedin">
-		<img src="https://img.shields.io/badge/-jeferson.luckas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeferson.luckas@gmail.com" alt="Gmail">
+		<img src="https://img.shields.io/badge/GitHub-JefersonLucas-black" alt="GitHub">
+		<img src="https://img.shields.io/github/followers/JefersonLucas?style=social" alt="JefersonLucas">
     </p>
 </p>
 
-## About me :man_technologist:
+[![Portfolio Badge](https://img.shields.io/badge/JefersonLuckas-myPortfolio-black)](https://jefersonlucas.github.io/my-portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/-JefersonLucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-lucas/)](https://www.linkedin.com/in/jeferson-lucas/)
+[![Facebook Badge](https://img.shields.io/badge/-JefersonLucas-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004317732004)](https://www.facebook.com/profile.php?id=100004317732004)
+[![Instagram Badge](https://img.shields.io/badge/-jeferson.luckas-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jeferson.luckas/)](https://www.instagram.com/jeferson.luckas/)
+[![Twitter Badge](https://img.shields.io/twitter/url?label=JefersonLuckas&style=social&url=https%3A%2F%2Ftwitter.com%2FJefersonLuckas)](https://twitter.com/JefersonLuckas)
+[![Gmail Badge](https://img.shields.io/badge/-jeferson.luckas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeferson.luckas@gmail.com)](mailto:jeferson.luckas@gmail.com)
 
-Hello, how are you?
+<hr>
+
+## About me :bearded_person:
+
+Hello, how are you? :vulcan_salute:
 
 My name is Jeferson Lucas, I am graduated as a Systems Analyst and Developer. I currently work and work as a computer technician and support at the Faculty of Science and Education Sena Aires - FACESA.
 
-Study and work with technologiess
+Study and work with technologiess :man_technologist:
+
 * HTML 5
 * CSS
 * Bootstrap
@@ -35,7 +42,7 @@ Study and work with technologiess
 * MVC Architecture with PHP
 * SASS and WordPress.
 
-## Projects :rocket:
+## Projects :rocket: :top:
 
 My top 3 projects
 
