@@ -29,9 +29,17 @@
 ![Angular.js](https://img.shields.io/badge/-Angular-c14438?style=flat&logoColor=fff&logo=angular)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-ffffff?style=flat&logo=sass)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=flat&logo=wordpress)&nbsp;
 
 ## About me :bearded_person:
 
 Hello, how are you? :vulcan_salute:
 
-My name is Jeferson Lucas, I am graduated in Systems Analysis and I am studying Web front and back end development. : man_technologist:
+My name is Jeferson Lucas, I am graduated in Systems Analysis and I am studying Web front and back end development. 
+
+## Skills :man_technologist: :up:
+
+I am currently studying Front end through a Bootcamp, I am learning application development using technologies and frameworks: HTML 5, CSS 3, JavaScript, ES6 +, Bootstrap 4, Angular, React and Vue.
+
+I am also studying for Back end development, where I learn other technologies such as: PHP 7, MySQL, Ajax, PHP OO, PHP with PDO and MySQL, jQuerry, MVC architecture with PHP, SASS and WordPress.
