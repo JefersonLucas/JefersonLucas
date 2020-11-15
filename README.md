@@ -8,15 +8,16 @@
     <p align="center"><em>A nerd in love with technology, music and electronic games. :vulcan_salute: :man_technologist:</em></p>
 </p>
 
+<hr>
+
+## About me :bearded_person:
+
 [![Linkedin Badge](https://img.shields.io/badge/-JefersonLucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-lucas/)](https://www.linkedin.com/in/jeferson-lucas/)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-jeferson.luckas-tomato?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jeferson.luckas/)](https://www.instagram.com/jeferson.luckas/)&nbsp;
 [![Twitter Badge](https://img.shields.io/twitter/url?label=JefersonLuckas&style=social&url=https%3A%2F%2Ftwitter.com%2FJefersonLuckas)](https://twitter.com/JefersonLuckas)&nbsp;
 [![Facebook Badge](https://img.shields.io/badge/-JefersonLucas-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004317732004)](https://www.facebook.com/profile.php?id=100004317732004)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-jeferson.luckas-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeferson.luckas@gmail.com)](mailto:jeferson.luckas@gmail.com)
 
-<hr>
-
-## About me :bearded_person:
 
 [![Portfolio](https://img.shields.io/badge/Jeferson%20Lucas-Portfolio-blue)](https://jefersonlucas.github.io/portfolio)&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/JefersonLucas?style=social)
@@ -25,7 +26,6 @@ Hello, how are you? :vulcan_salute:
 
 My name is Jeferson Lucas, I am graduated in Systems Analysis and I am studying Web front and back end development. 
 
-<hr>
 
 ## Skills :man_technologist: :up:
 ### Front-end :computer: :soon:
@@ -50,9 +50,9 @@ I am currently studying Front end through a Bootcamp, I am learning application 
 
 I am also studying for Back end development, where I learn other technologies such as: PHP 7, MySQL, Ajax, PHP OO, PHP with PDO and MySQL, jQuerry, MVC architecture with PHP, SASS and WordPress.
 
-I am curious to study Web services and storage in the cloud.
+I am curious to study other technologies such as Amazon Web Services and Microsoft Azure.
 
-### Mobile :mobile:
+### Mobile :iphone:
 
 ![React Native](https://img.shields.io/badge/-React%20Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-369?style=flat&logoColor=fff&logo=flutter)&nbsp;
@@ -60,7 +60,7 @@ I am curious to study Web services and storage in the cloud.
 
  I am curious to study mobile technologies in the future: React Native, Flutter and Dart.
 
- ### Tools :toolbox:
+ ### Tools :computer: :toolbox:
 
 ![Git](https://img.shields.io/badge/-Git-fff?fff=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
