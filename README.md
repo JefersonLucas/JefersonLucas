@@ -7,7 +7,7 @@
 
 👨🏻‍💻 Me chamo **Jeferson Lucas**, tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas, apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Front-end**.
 
-🎓 Estou cursando Desenvolvimento Front-end através de um Bootcamp oferecido pelo *Instituto de Gestão e Tecnologia da Informação* - [IGTI](https://www.igti.com.br/) além de outros cursos especializados. Estou desenvolvendo aplicações utilizando as tecnologias: **React**, **Angular**, **Vue.js**, **Node.js**, **TypeScript** e **MongoDB**.
+👨🏻‍🎓 Estou cursando Desenvolvimento Front-end através de um Bootcamp oferecido pelo *Instituto de Gestão e Tecnologia da Informação* - [IGTI](https://www.igti.com.br/) além de outros cursos especializados. Estou desenvolvendo aplicações utilizando as tecnologias: **React**, **Angular**, **Vue.js**, **Node.js**, **TypeScript** e **MongoDB**.
 
 ## Sobre &#129492;&#127995;
 <!-- Social Networks -->
@@ -17,13 +17,18 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Jeferson%20Lucas-4fc65a?style=social-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+556198453785&text=Olá,+tudo+bem?&source=&data=&app_absent=)](https://api.whatsapp.com/send?phone=+556198453785&text=Olá,+tudo+bem?&source=&data=&app_absent=)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-jeferson.luckas-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jeferson.luckas/)](https://www.instagram.com/jeferson.luckas/)&nbsp;
 [![Twitter Badge](https://img.shields.io/twitter/url?label=JefersonLuckas&style=social&url=https%3A%2F%2Ftwitter.com%2FJefersonLuckas)](https://twitter.com/JefersonLuckas)&nbsp;
+[![Portfólio](https://img.shields.io/badge/Jeferson%20Lucas-Portfólio-3db70f)](https://jefersonlucas.github.io/portfolio)&nbsp;
 
-<!-- Social GitHub -->
+<!-- Info repo -->
+[![Jeferson Lucas](https://img.shields.io/badge/-JefersonLucas-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/JefersonLucas/)&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/JefersonLucas?style=social)&nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/JefersonLucas?style=social)&nbsp;
 [![Repos Badge](https://badges.pufler.dev/repos/JefersonLucas)](https://badges.pufler.dev)&nbsp;
 [![Years Badge](https://badges.pufler.dev/years/JefersonLucas)](https://badges.pufler.dev)&nbsp;
-[![Portfólio](https://img.shields.io/badge/Jeferson%20Lucas-Portfólio-3db70f)](https://jefersonlucas.github.io/portfolio)&nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas)&nbsp;
+[![Updated Badge](https://badges.pufler.dev/updated/JefersonLucas/JefersonLucas)](https://badges.pufler.dev)&nbsp;
+[![Created Badge](https://badges.pufler.dev/created/JefersonLucas/JefersonLucas)](https://badges.pufler.dev)&nbsp;
+[![Visits Badge](https://badges.pufler.dev/visits/JefersonLucas/JefersonLucas)](https://badges.pufler.dev)&nbsp;
 
 <!-- GitHub Stats -->
 ![Jeferson Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=JefersonLucas&theme=chartreuse-dark&show_icons=true)<br>
