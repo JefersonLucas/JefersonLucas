@@ -3,13 +3,6 @@
 	<img src="./assets/cover.gif" alt="cover" title="Jeferson Lucas" style="border-radius: 15px; box-shadow: 10px 10px 10px 10px rgba(0,0,0, .5);">
 </p>
 
-## Olá, tudo bem? &#129311;&#127995;
-
-👨🏻‍💻 Me chamo **Jeferson Lucas**, tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas, apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Front-end**.
-
-👨🏻‍🎓 Estou cursando Desenvolvimento Front-end através de um Bootcamp oferecido pelo *Instituto de Gestão e Tecnologia da Informação* - [IGTI](https://www.igti.com.br/) além de outros cursos especializados. Estou desenvolvendo aplicações utilizando as tecnologias: **React**, **Angular**, **Vue.js**, **Node.js**, **TypeScript** e **MongoDB**.
-
-## Sobre &#129492;&#127995;
 <!-- Social Networks -->
 [![Linkedin Badge](https://img.shields.io/badge/-Jeferson%20Lucas-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-lucas/)](https://www.linkedin.com/in/jeferson-lucas/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-jeferson.luckas-c14438?style=social-square&logo=Gmail&logoColor=white&link=mailto:jeferson.luckas@gmail.com)](mailto:jeferson.luckas@gmail.com)
@@ -17,22 +10,29 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Jeferson%20Lucas-4fc65a?style=social-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+556198453785&text=Olá,+tudo+bem?&source=&data=&app_absent=)](https://api.whatsapp.com/send?phone=+556198453785&text=Olá,+tudo+bem?&source=&data=&app_absent=)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-jeferson.luckas-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jeferson.luckas/)](https://www.instagram.com/jeferson.luckas/)&nbsp;
 [![Twitter Badge](https://img.shields.io/twitter/url?label=JefersonLuckas&style=social&url=https%3A%2F%2Ftwitter.com%2FJefersonLuckas)](https://twitter.com/JefersonLuckas)&nbsp;
+[![Jeferson Lucas](https://img.shields.io/badge/-JefersonLucas-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/JefersonLucas/)&nbsp;
 [![Portfólio](https://img.shields.io/badge/Jeferson%20Lucas-Portfólio-3db70f)](https://jefersonlucas.github.io/portfolio)&nbsp;
 
 <!-- Info repo -->
-[![Jeferson Lucas](https://img.shields.io/badge/-JefersonLucas-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/JefersonLucas/)&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/JefersonLucas?style=social)&nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/JefersonLucas?style=social)&nbsp;
-[![Repos Badge](https://badges.pufler.dev/repos/JefersonLucas)](https://badges.pufler.dev)&nbsp;
 [![Years Badge](https://badges.pufler.dev/years/JefersonLucas)](https://badges.pufler.dev)&nbsp;
+[![Repos Badge](https://badges.pufler.dev/repos/JefersonLucas)](https://badges.pufler.dev)&nbsp;
 [![Visits Badge](https://badges.pufler.dev/visits/JefersonLucas/JefersonLucas)](https://badges.pufler.dev)&nbsp;
 [![Created Badge](https://badges.pufler.dev/created/JefersonLucas/JefersonLucas)](https://badges.pufler.dev)&nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas)&nbsp;
 [![Updated Badge](https://badges.pufler.dev/updated/JefersonLucas/JefersonLucas)](https://badges.pufler.dev)&nbsp;
 
 <!-- GitHub Stats -->
-![Jeferson Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=JefersonLucas&theme=chartreuse-dark&show_icons=true)<br>
+![Jeferson Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=JefersonLucas&theme=chartreuse-dark&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonLucas&layout=compact&theme=chartreuse-dark)](https://github.com/JefersonLucas/github-readme-stats)
+
+## Olá, tudo bem? &#129311;&#127995;&#129492;&#127995;
+
+👨🏻‍💻 Me chamo **Jeferson Lucas**, tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas, apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Front-end**.
+
+👨🏻‍🎓 Estou cursando Desenvolvimento Front-end através de um Bootcamp oferecido pelo *Instituto de Gestão e Tecnologia da Informação* - [IGTI](https://www.igti.com.br/) além de outros cursos especializados. Estou desenvolvendo aplicações utilizando as tecnologias: **React**, **Angular**, **Vue.js**, **Node.js**, **TypeScript** e **MongoDB**.
 
 ## Habilidades 👨🏻‍💻
 <!-- Languages, libs and frameworks -->
@@ -70,9 +70,9 @@ Estão aqui algumas das minhas habilidades e conhecimentos como Desenvolvedor Fr
 - 📈 **Engenharia de Software**: Levantamento de requisitos, UML, Scrum e Kanbam.
 
 <!-- Projects -->
-## Projetos 📦
+## Projetos 🗃️
 
-Meus top 3 projetos: 🏆
-1. 🥉 [Snake Game 2D](https://github.com/JefersonLucas/snake-game-2D) - O famoso jogo de Scobra em 2D no qual o seu objetivo é comer, ficar enorme e acumular muitos pontos.
+Meu top 3 projetos mais famosos: 🏆
+1. 🥇 [The Matrix Effect](https://github.com/JefersonLucas/the-matrix-effect) - O incrível efeito de chuva de letras da triologia Matrix.
 2. 🥈 [The Sharingan Eye](https://github.com/JefersonLucas/the-sharingan-eye) - O poderoso dojutsu kekkei genkai dos membros do clã Uchiha feito em CSS.
-3. 🥇 [The Matrix Effect](https://github.com/JefersonLucas/the-matrix-effect) - O incrível efeito de chuva de letras da triologia Matrix.
+3. 🥉 [Snake Game 2D](https://github.com/JefersonLucas/snake-game-2D) - O famoso jogo de Scobra em 2D no qual o seu objetivo é comer, ficar enorme e acumular muitos pontos.
