@@ -10,7 +10,8 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Jeferson%20Lucas-4fc65a?style=social-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+556198453785&text=Olá,+tudo+bem?&source=&data=&app_absent=)](https://api.whatsapp.com/send?phone=+556198453785&text=Olá,+tudo+bem?&source=&data=&app_absent=)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-jeferson.luckas-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jeferson.luckas/)](https://www.instagram.com/jeferson.luckas/)&nbsp;
 [![Twitter Badge](https://img.shields.io/twitter/url?label=JefersonLuckas&style=social&url=https%3A%2F%2Ftwitter.com%2FJefersonLuckas)](https://twitter.com/JefersonLuckas)&nbsp;
-[![Jeferson Lucas](https://img.shields.io/badge/-JefersonLucas-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/JefersonLucas/)&nbsp;
+[![Medium Badge](https://img.shields.io/badge/-@jeferson.luckas-fff?fffstyle=flat&logo=medium&logoColor=black)](https://medium.com/@jeferson.luckas)&nbsp;
+[![GitHub Badge](https://img.shields.io/badge/-JefersonLucas-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/JefersonLucas/)&nbsp;
 [![Portfólio](https://img.shields.io/badge/Jeferson%20Lucas-Portfólio-3db70f)](https://jefersonlucas.github.io/portfolio)&nbsp;
 
 <!-- Info repo -->
