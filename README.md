@@ -25,10 +25,10 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/JefersonLucas?style=social)&nbsp;
 [![Repos Badge](https://badges.pufler.dev/repos/JefersonLucas)](https://badges.pufler.dev)&nbsp;
 [![Years Badge](https://badges.pufler.dev/years/JefersonLucas)](https://badges.pufler.dev)&nbsp;
+[![Visits Badge](https://badges.pufler.dev/visits/JefersonLucas/JefersonLucas)](https://badges.pufler.dev)&nbsp;
+[![Created Badge](https://badges.pufler.dev/created/JefersonLucas/JefersonLucas)](https://badges.pufler.dev)&nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas)&nbsp;
 [![Updated Badge](https://badges.pufler.dev/updated/JefersonLucas/JefersonLucas)](https://badges.pufler.dev)&nbsp;
-[![Created Badge](https://badges.pufler.dev/created/JefersonLucas/JefersonLucas)](https://badges.pufler.dev)&nbsp;
-[![Visits Badge](https://badges.pufler.dev/visits/JefersonLucas/JefersonLucas)](https://badges.pufler.dev)&nbsp;
 
 <!-- GitHub Stats -->
 ![Jeferson Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=JefersonLucas&theme=chartreuse-dark&show_icons=true)<br>
