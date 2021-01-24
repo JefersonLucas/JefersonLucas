@@ -1,11 +1,17 @@
 <!-- Cover -->
 <p align="center">
-	<img src="./assets/cover.gif" alt="cover" title="Jeferson Lucas" style="border-radius: 15px; box-shadow: 10px 10px 10px 10px rgba(0,0,0, .5);">
+	<img 
+		alt="cover" 
+		loading="lazy"
+		src="./assets/cover.gif" 
+		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
+		title="Jeferson Lucas" 
+	>
 </p>
 
 <!-- Social Networks -->
 [![Linkedin Badge](https://img.shields.io/badge/-Jeferson%20Lucas-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-lucas/)](https://www.linkedin.com/in/jeferson-lucas/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-jeferson.luckas-c14438?style=social-square&logo=Gmail&logoColor=white&link=mailto:jeferson.luckas@gmail.com)](mailto:jeferson.luckas@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jeferson.luckas-c14438?style=social-square&logo=Gmail&logoColor=white&link=mailto:jeferson.luckas@gmail.com)](mailto:jeferson.luckas@gmail.com)&nbsp;
 [![Facebook Badge](https://img.shields.io/badge/-Jeferson%20Lucas-blue?style=social-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004317732004)](https://www.facebook.com/profile.php?id=100004317732004)&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Jeferson%20Lucas-4fc65a?style=social-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+556198453785&text=Olá,+tudo+bem?&source=&data=&app_absent=)](https://api.whatsapp.com/send?phone=+556198453785&text=Olá,+tudo+bem?&source=&data=&app_absent=)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-jeferson.luckas-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jeferson.luckas/)](https://www.instagram.com/jeferson.luckas/)&nbsp;
@@ -28,6 +34,7 @@
 ![Jeferson Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=JefersonLucas&theme=chartreuse-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonLucas&layout=compact&theme=chartreuse-dark)](https://github.com/JefersonLucas/github-readme-stats)
+
 
 ## Olá, tudo bem? &#129311;&#127995;&#129492;&#127995;
 
@@ -71,9 +78,11 @@ Estão aqui algumas das minhas habilidades e conhecimentos como Desenvolvedor Fr
 - 📈 **Engenharia de Software**: Levantamento de requisitos, UML, Scrum e Kanbam.
 
 <!-- Projects -->
-## Projetos 🗃️
+## Projetos 📊
 
 Meu top 3 projetos mais famosos: 🏆
 1. 🥇 [The Matrix Effect](https://github.com/JefersonLucas/the-matrix-effect) - O incrível efeito de chuva de letras da triologia Matrix.
 2. 🥈 [The Sharingan Eye](https://github.com/JefersonLucas/the-sharingan-eye) - O poderoso dojutsu kekkei genkai dos membros do clã Uchiha feito em CSS.
 3. 🥉 [Snake Game 2D](https://github.com/JefersonLucas/snake-game-2D) - O famoso jogo de Scobra em 2D no qual o seu objetivo é comer, ficar enorme e acumular muitos pontos.
+
+Você também pode visualizar todos os meus repositórios [aqui](https://github.com/JefersonLucas?tab=repositories&q=&type=source&language=).
