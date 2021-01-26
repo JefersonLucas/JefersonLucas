@@ -10,7 +10,7 @@
 </p>
 
 <!-- Info repo -->
-<p align="justify">
+<p align="left">
 	<img alt="GitHub Jeferson Lucas" src="https://img.shields.io/badge/GitHub-JefersonLucas-success?style=plastic&color=success" title="GitHub Jeferson Lucas" />
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/JefersonLucas?style=plastic&color=success" title="GitHub followers" />
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JefersonLucas?style=plastic&color=success" title="GitHub User's stars" />
@@ -23,7 +23,7 @@
 </p>
 
 <!-- Social Networks -->
-<p align="justify">
+<p align="left">
 	<a href="https://www.linkedin.com/in/jeferson-lucas/" target="_black"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Jeferson%20Lucas-blue?&style=plastic&logo=Linkedin&logoColor=white" title="Linkedin Badge" /></a>
 	<a href="mailto:jeferson.luckas@gmail.com" target="_black"><img alt="Gmail Badge" src="https://img.shields.io/badge/-jeferson.luckas-c14438?&style=plastic&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
 	<a href="https://www.facebook.com/profile.php?id=100004317732004" target="_black"><img alt="Facebook Badge" src="https://img.shields.io/badge/-Jeferson%20Lucas-blue?&style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004317732004" title="Facebook Badge" /></a>
@@ -36,7 +36,7 @@
 </p>
 
 <!-- Languages, libs and frameworks -->
-<p align="justify">
+<p align="left">
 	<img alt="HTML5" src="https://img.shields.io/badge/-HTML-fff?style=plastic&logo=HTML5" title="HTML5" />
 	<img alt="CSS3" src="https://img.shields.io/badge/-CSS-fff?style=plastic&logo=CSS3&logoColor=1572B6" title="CSS3" />
 	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fff?fff&style=plastic&logo=javascript&logoColor=f7ab00" title="JavaScript" />
@@ -54,7 +54,7 @@
 </p>
 
 <!-- Tools Front-end -->
-<p align="justify">
+<p align="left">
 	<img alt="Babel" src="https://img.shields.io/badge/-Babel-fff?style=plastic&logo=babel" title="Babel" />
 	<img alt="Figma" src="https://img.shields.io/badge/-Figma-fff?fff&style=plastic&logo=figma" title="Figma" />
 	<img alt="Git" src="https://img.shields.io/badge/-Git-fff?style=plastic&logo=git" title="Git" />
