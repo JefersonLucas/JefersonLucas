@@ -11,15 +11,15 @@
 
 <!-- Info repo -->
 <p align="left">
-	<img alt="GitHub Jeferson Lucas" src="https://img.shields.io/badge/GitHub-JefersonLucas-success?style=plastic&color=success" title="GitHub Jeferson Lucas" />
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/JefersonLucas?style=plastic&color=success" title="GitHub followers" />
-	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JefersonLucas?style=plastic&color=success" title="GitHub User's stars" />
-	<img alt="Years Badge" src="https://badges.pufler.dev/years/JefersonLucas?style=plastic" title="Years Badge" />
-	<img alt="Repos Badge" src="https://badges.pufler.dev/repos/JefersonLucas?style=plastic" title="Repos Badge" />
-	<img alt="Visits Badge" src="https://badges.pufler.dev/visits/JefersonLucas/JefersonLucas?style=plastic" title="Visits Badge" />
-	<img alt="Created Badge" src="https://badges.pufler.dev/created/JefersonLucas/JefersonLucas?style=plastic" title="Created Badge" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas?style=plastic" title="GitHub last commit" />
-	<img alt="Updated Badge" src="https://badges.pufler.dev/updated/JefersonLucas/JefersonLucas?style=plastic" title="Updated Badge" />
+	<img alt="GitHub Jeferson Lucas" src="https://img.shields.io/badge/GitHub-JefersonLucas-6ad600?style=plastic&color=6ad600" title="GitHub Jeferson Lucas" />
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/JefersonLucas?style=plastic&color=6ad600" title="GitHub followers" />
+	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JefersonLucas?style=plastic&color=6ad600" title="GitHub User's stars" />
+	<img alt="Years Badge" src="https://badges.pufler.dev/years/JefersonLucas?style=plastic&color=6ad600" title="Years Badge" />
+	<img alt="Repos Badge" src="https://badges.pufler.dev/repos/JefersonLucas?style=plastic&color=6ad600" title="Repos Badge" />
+	<img alt="Visits Badge" src="https://badges.pufler.dev/visits/JefersonLucas/JefersonLucas?style=plastic&color=6ad600" title="Visits Badge" />
+	<img alt="Created Badge" src="https://badges.pufler.dev/created/JefersonLucas/JefersonLucas?style=plastic&color=6ad600" title="Created Badge" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas?style=plastic&color=6ad600" title="GitHub last commit" />
+	<img alt="Updated Badge" src="https://badges.pufler.dev/updated/JefersonLucas/JefersonLucas?style=plastic&color=6ad600" title="Updated Badge" />
 </p>
 
 <!-- Social Networks -->
@@ -32,7 +32,7 @@
 	<a href="https://twitter.com/JefersonLuckas" target="_black"><img alt="Twitter Badge" src="https://img.shields.io/badge/-JefersonLuckas-fff?fff&style=plastic&logo=twitter" title="Twitter Badge" /></a>
 	<a href="https://medium.com/@jeferson.luckas" target="_black"><img alt="Medium Badge" src="https://img.shields.io/badge/-@jeferson.luckas-fff?fff&style=plastic&logo=medium&logoColor=black" title="Medium Badge" /></a>
 	<a href="https://github.com/JefersonLucas" target="_black"><img alt="GitHub Badge" src="https://img.shields.io/badge/-JefersonLucas-fff?fff&style=plastic&logo=github&logoColor=black" title="GitHub Badge" /></a>
-	<a href="https://jefersonlucas.github.io/portfolio" target="_black"><img alt="Portfólio" src="https://img.shields.io/badge/JefersonLucas-Portf%C3%B3lio-success?style=plastic" title="Portfólio" /></a>
+	<a href="https://jefersonlucas.github.io/portfolio" target="_black"><img alt="Portfólio" src="https://img.shields.io/badge/JefersonLucas-Portf%C3%B3lio-success?style=plastic&color=6ad600" title="Portfólio" /></a>
 </p>
 
 <!-- Languages, libs and frameworks -->
@@ -58,7 +58,7 @@
 	<img alt="Babel" src="https://img.shields.io/badge/-Babel-fff?style=plastic&logo=babel" title="Babel" />
 	<img alt="Figma" src="https://img.shields.io/badge/-Figma-fff?fff&style=plastic&logo=figma" title="Figma" />
 	<img alt="Git" src="https://img.shields.io/badge/-Git-fff?style=plastic&logo=git" title="Git" />
-	<img alt="GitHub" src="https://img.shields.io/badge/-GitHubPages-fff?style=plastic&logo=github&logoColor=333333" title="GitHub" />
+	<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-fff?style=plastic&logo=github&logoColor=333333" title="GitHub" />
 	<img alt="Gulp" src="https://img.shields.io/badge/-Gulp-fff?style=plastic&logo=gulp" title="Gulp" />
 	<img alt="Jest" src="https://img.shields.io/badge/-Jest-fff?style=plastic&logo=jest&logoColor=944058" title="Jest" />
 	<img alt="NPM" src="https://img.shields.io/badge/-NPM-fff?style=plastic&logo=npm" title="NPM" />
@@ -67,9 +67,18 @@
 </p>
 
 <!-- GitHub Stats -->
-![Jeferson Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=JefersonLucas&theme=chartreuse-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonLucas&layout=compact&theme=chartreuse-dark)](https://github.com/JefersonLucas/github-readme-stats)
+<p align="left">
+	<img alt="Jeferson Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JefersonLucas&theme=chartreuse-dark&show_icons=true&hide_border=true" title="Jeferson Lucas GitHub Stats" />
+</p>
+
+<p align="left">
+	<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=JefersonLucas&theme=chartreuse-dark&hide_border=true" title="Github Contributions" />
+</p>
+
+<p align="left">
+	<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonLucas&layout=compact&theme=chartreuse-dark&hide_border=true" title="Top Langs" />
+</p>
 
 
 ## Olá, tudo bem? &#129311;&#127995;&#129492;&#127995;
