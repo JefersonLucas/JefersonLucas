@@ -80,17 +80,18 @@
 	<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonLucas&layout=compact&theme=chartreuse-dark&hide_border=true" title="Top Langs" />
 </p>
 
-
 ## Olá, tudo bem? &#129311;&#127995;&#129492;&#127995;
 
-👨🏻‍💻 Me chamo **Jeferson Lucas**, tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas, apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Front-end**.
+👨🏻‍💻 Me chamo **Jeferson Lucas**, tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas, apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Full Stack**.
 
-👨🏻‍🎓 Estou cursando [Desenvolvimento Front-end](https://www.igti.com.br/custom/desenvolvedor-front-end/) através de um Bootcamp oferecido pelo *Instituto de Gestão e Tecnologia da Informação* - IGTI, além de outros cursos especializados. Estou desenvolvendo aplicações utilizando as tecnologias: **Sass**, **React**, **Angular**, **Vue.js**, **Node.js**, **TypeScript** e **MongoDB**.
+👨🏻‍🎓 Atualmente estou cursando [Desenvolvimento Full Stack](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack/) através de um Bootcamp oferecido pelo _Instituto de Gestão e Tecnologia da Informação_ - IGTI, além de outros cursos especializados. Estou desenvolvendo aplicações utilizando as tecnologias: **JavaScript**, **Node.js**, **Express**, **React** e **MongoDB**.
 
 ## Habilidades 👨🏻‍💻
 
 <!-- Skills -->
+
 Algumas das minhas habilidades e conhecimentos como Desenvolvedor Front-end:
+
 - 💻 **Front-end**: HTML, CSS (Media Query, Animation, Flexbox, Grid, Sass), JavaScript (Ajax, jQuery, ES6+), Bootstrap, Angular 4+, React.
 - 🔠 **Linguagens**: HTML/CSS, JavaScript, ES6+, TypeScript.
 - 🏷️ **Versionamento**: Git.
@@ -101,9 +102,11 @@ Algumas das minhas habilidades e conhecimentos como Desenvolvedor Front-end:
 - 📈 **Engenharia de Software**: Levantamento de requisitos, UML, Scrum e Kanbam.
 
 <!-- Projects -->
+
 ## Projetos 📊
 
 Meu top 3 projetos mais famosos: 🏆
+
 1. 🥇 [The Matrix Effect](https://github.com/JefersonLucas/the-matrix-effect) · O incrível efeito de chuva de letras da triologia Matrix.
 2. 🥈 [The Sharingan Eye](https://github.com/JefersonLucas/the-sharingan-eye) · O poderoso dojutsu kekkei genkai dos membros do clã Uchiha feito em CSS.
 3. 🥉 [Snake Game 2D](https://github.com/JefersonLucas/snake-game-2D) · O famoso jogo de Scobra em 2D no qual o seu objetivo é comer, ficar enorme e acumular muitos pontos.
