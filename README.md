@@ -3,7 +3,7 @@
 	<img 
 		alt="cover" 
 		loading="lazy"
-		src="./assets/cover.gif" 
+		src="./img/cover.gif" 
 		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
 		title="Jeferson Lucas" 
 	>
@@ -59,6 +59,7 @@
 	<img alt="Figma" src="https://img.shields.io/badge/-Figma-fff?fff&style=plastic&logo=figma" title="Figma" />
 	<img alt="Git" src="https://img.shields.io/badge/-Git-fff?style=plastic&logo=git" title="Git" />
 	<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-fff?style=plastic&logo=github&logoColor=333333" title="GitHub" />
+	<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-fff?style=plastic&logo=heroku&logoColor=6a34a9" title="Heroku" />
 	<img alt="Gulp" src="https://img.shields.io/badge/-Gulp-fff?style=plastic&logo=gulp" title="Gulp" />
 	<img alt="Jest" src="https://img.shields.io/badge/-Jest-fff?style=plastic&logo=jest&logoColor=944058" title="Jest" />
 	<img alt="NPM" src="https://img.shields.io/badge/-NPM-fff?style=plastic&logo=npm" title="NPM" />
@@ -84,21 +85,25 @@
 
 👨🏻‍💻 Me chamo **Jeferson Lucas**, tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas, apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Full Stack**.
 
-👨🏻‍🎓 Atualmente estou cursando [Desenvolvimento Full Stack](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack/) através de um Bootcamp oferecido pelo _Instituto de Gestão e Tecnologia da Informação_ - IGTI, além de outros cursos especializados. Estou desenvolvendo aplicações utilizando as tecnologias: **JavaScript**, **Node.js**, **Express**, **React** e **MongoDB**.
+👨🏻‍🎓 Atualmente estou cursando [Desenvolvimento Full Stack](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack/) através de um Bootcamp oferecido pelo _Instituto de Gestão e Tecnologia da Informação_ - IGTI, além de outros cursos especializados. Estou desenvolvendo aplicações utilizando as tecnologias: **JavaScript**, **Node.js**, **Express**, **React**, **MongoDB** e **Heroku**.
 
 ## Habilidades 👨🏻‍💻
 
 <!-- Skills -->
 
-Algumas das minhas habilidades e conhecimentos como Desenvolvedor Front-end:
+Algumas das minhas habilidades e conhecimentos como Desenvolvedor:
 
-- 💻 **Front-end**: HTML, CSS (Media Query, Animation, Flexbox, Grid, Sass), JavaScript (Ajax, jQuery, ES6+), Bootstrap, Angular 4+, React.
-- 🔠 **Linguagens**: HTML/CSS, JavaScript, ES6+, TypeScript.
-- 🏷️ **Versionamento**: Git.
+- 💻🔜 **Front-end**: HTML, CSS (Sass), JavaScript (ES6+).
+- 💻🔙 **Back-end**: Node.js, PHP, TypeScript.
+- 🧰🔜 **Frameworks (Front-end)**: Bootstrap, Angular, React e Vue.js.
+- 🧰🔙 **Frameworks (Back-end)**: Express, Mongoose.
+- 🚀 **Deploy e Hospedagem**: Heroku, Vercel, GitHub.
+- 🔠 **Linguagens**: HTML/CSS, JavaScript(ES6+), TypeScript e PHP.
+- 🏷️ **Versionamento**: Git (gitflow).
 - 🧪 **Testes e automatização**: NPM, Jest, Gulp.
-- 🎲 **Banco de Dados**: Linguagem SQL, Modelagem de dados, MySQL.
-- 🏗️ **Infraestrutura**: HTTP, Windows 10.
-- 👷🏻 **Arquitetura**: Rest, Orientação a Objetos.
+- 🎲 **Banco de Dados**: MySQL, MongoDB, Linguagem SQL, Modelagem de dados.
+- 🏗️ **Infraestrutura**: Windows 10, Linux.
+- 👷🏻 **Arquitetura**: Orientação a Objetos, Rest e MVC.
 - 📈 **Engenharia de Software**: Levantamento de requisitos, UML, Scrum e Kanbam.
 
 <!-- Projects -->
