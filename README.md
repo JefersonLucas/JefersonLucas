@@ -3,49 +3,57 @@
 	<img 
 		alt="cover" 
 		loading="lazy"
-		src="./cover-github.png" 
-		style="border-radius: 5px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
+		src="./cover.png"
 		title="Jeferson Lucas" 
 	>
 </p>
 
 <!-- Info repo -->
 
-![GitHubJefersonLucas](https://img.shields.io/badge/GitHub-JefersonLucas-style=flat&color=sucess)
-![GitHub followers](https://img.shields.io/github/followers/JefersonLucas?style=flat&color=sucess)
-![GitHub User's stars](https://img.shields.io/github/stars/JefersonLucas?style=flat&color=sucess)
-![Years Badge](https://badges.pufler.dev/years/JefersonLucas?style=flat&color=sucess)
-![Repos Badge](https://badges.pufler.dev/repos/JefersonLucas?style=flat&color=sucess)
-![Visits Badge](https://badges.pufler.dev/visits/JefersonLucas/JefersonLucas?style=flat&color=sucess)
-![Created Badge](https://badges.pufler.dev/created/JefersonLucas/JefersonLucas?style=flat&color=sucess)
-![GitHub last commit](https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas?style=flat&color=sucess)
-![Updated Badge](https://badges.pufler.dev/updated/JefersonLucas/JefersonLucas?style=flat&color=sucess)
+![GitHub followers](https://img.shields.io/github/followers/JefersonLucas?style=flat&color=9644F4)
+![GitHub User's stars](https://img.shields.io/github/stars/JefersonLucas?style=flat&color=9644F4)
+![Years Badge](https://badges.pufler.dev/years/JefersonLucas?style=flat&color=9644F4)
+![Repos Badge](https://badges.pufler.dev/repos/JefersonLucas?style=flat&color=9644F4)
+![Visits Badge](https://badges.pufler.dev/visits/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
+![Created Badge](https://badges.pufler.dev/created/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
+![GitHub last commit](https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
+![Updated Badge](https://badges.pufler.dev/updated/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
 
-## Hello how are you? 🤟🏻🧔🏻
+## Hello how are you? 👋🏻
 
 <!-- Social Networks -->
 <p align="left">
-	<a href="https://www.linkedin.com/in/jeferson-lucas/" target="_black"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Jeferson%20Lucas-blue?&style=flat&logo=Linkedin&logoColor=white" title="Linkedin Badge" /></a>
-	<a href="mailto:jeferson.luckas@gmail.com" target="_black"><img alt="Gmail Badge" src="https://img.shields.io/badge/-jeferson.luckas-c14438?&style=flat&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
-	<a href="https://www.facebook.com/profile.php?id=100004317732004" target="_black"><img alt="Facebook Badge" src="https://img.shields.io/badge/-Jeferson%20Lucas-blue?&style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004317732004" title="Facebook Badge" /></a>
-	<a href="https://api.whatsapp.com/send?phone=+556198453785&text=Olá,+tudo+bem?&source=&data=&app_absent=" target="_black"><img alt="Whatsapp Badge" src="https://img.shields.io/badge/-Jeferson%20Lucas-4fc65a?&style=flat&logo=Whatsapp&logoColor=white" title="Whatsapp Badge" /></a>
-	<a href="https://www.instagram.com/jeferson.luckas/" target="_black"><img alt="nstagram Badge" src="https://img.shields.io/badge/-jeferson.luckas-ec544c?&style=flat&logo=Instagram&logoColor=white" title="Instagram Badge" /></a>
-	<a href="https://twitter.com/JefersonLuckas" target="_black"><img alt="Twitter Badge" src="https://img.shields.io/badge/-JefersonLuckas-fff?fff&style=flat&logo=twitter" title="Twitter Badge" /></a>
-	<a href="https://medium.com/@jeferson.luckas" target="_black"><img alt="Medium Badge" src="https://img.shields.io/badge/-@jeferson.luckas-fff?fff&style=flat&logo=medium&logoColor=black" title="Medium Badge" /></a>
-	<a href="https://github.com/JefersonLucas" target="_black"><img alt="GitHub Badge" src="https://img.shields.io/badge/-JefersonLucas-fff?fff&style=flat&logo=github&logoColor=black" title="GitHub Badge" /></a>
-	<a href="https://github.com/JefersonLucas" target="_black"><img alt="Discord" src="https://img.shields.io/badge/-jeferson.luckas-fff?fff&style=flat&logo=discord" title="GitHub Badge" /></a>
-	<a href="https://jefersonlucas.github.io/portfolio" target="_black"><img alt="Portfólio" src="https://img.shields.io/badge/JefersonLucas-Portf%C3%B3lio-success?style=flat&color=sucess" title="Portfólio" /></a>
+	<!-- Linkedin -->
+	<a href="https://www.linkedin.com/in/jeferson-lucas/" target="_black"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Jeferson%20Lucas-9644F4?&style=flat&logo=Linkedin&logoColor=white" title="Linkedin Badge" /></a>
+	<!-- E-mail -->
+	<a href="mailto:jeferson.luckas@gmail.com" target="_black"><img alt="Gmail Badge" src="https://img.shields.io/badge/-jeferson.luckas-9644F4?&style=flat&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
+	<!-- Facebook -->
+	<a href="https://www.facebook.com/profile.php?id=100004317732004" target="_black"><img alt="Facebook Badge" src="https://img.shields.io/badge/-Jeferson%20Lucas-9644F4?&style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004317732004" title="Facebook Badge" /></a>
+	<!-- Whatsapp -->
+	<a href="https://api.whatsapp.com/send?phone=+556198453785&text=Olá,+tudo+bem?&source=&data=&app_absent=" target="_black"><img alt="Whatsapp Badge" src="https://img.shields.io/badge/-Jeferson%20Lucas-9644F4?&style=flat&logo=Whatsapp&logoColor=white" title="Whatsapp Badge" /></a>
+	<!-- Instagram -->
+	<a href="https://www.instagram.com/jeferson.luckas/" target="_black"><img alt="nstagram Badge" src="https://img.shields.io/badge/-jeferson.luckas-9644F4?&style=flat&logo=Instagram&logoColor=white" title="Instagram Badge" /></a>
+	<!-- Twitter -->
+	<a href="https://twitter.com/JefersonLuckas" target="_black"><img alt="Twitter Badge" src="https://img.shields.io/badge/-JefersonLuckas-9644F4?fff&style=flat&logo=twitter&logoColor=fff" title="Twitter Badge" /></a>
+	<!-- Medium -->
+	<a href="https://medium.com/@jeferson.luckas" target="_black"><img alt="Medium Badge" src="https://img.shields.io/badge/-@jeferson.luckas-9644F4?fff&style=flat&logo=medium&logoColor=fff" title="Medium Badge" /></a>
+	<!-- Github -->
+	<a href="https://github.com/JefersonLucas" target="_black"><img alt="GitHub Badge" src="https://img.shields.io/badge/-JefersonLucas-9644F4?fff&style=flat&logo=github&logoColor=white" title="GitHub Badge" /></a>
+	<!-- Discord -->
+	<a href="https://github.com/JefersonLucas" target="_black"><img alt="Discord" src="https://img.shields.io/badge/-jeferson.luckas-9644F4?fff&style=flat&logo=discord&logoColor=white" title="GitHub Badge" /></a>
+	<!-- Portfolio -->
+	<a href="https://jefersonlucas.github.io/portfolio" target="_black"><img alt="Portfólio" src="https://img.shields.io/badge/JefersonLucas-Portf%C3%B3lio-9644F4?style=flat&color=9644F4" title="Portfólio" /></a>
 </p>
 
-👨🏻‍💻 My name is **Jeferson Lucas**, I'm 26 years old, I'm Brazilian and graduated in Systems Analysis and Development, passionate about technology, music, games and I'm focused on **Full Stack Development**.
+🧔🏻 My name is **Jeferson Lucas**, I'm 27 years old, Brazilian graduated in Systems Analysis and Development and I'm also a Full Stack Web Developer passionate about technology, music and games.
 
-Recently completed a bootcamp aimed at the full stack, I am looking forward to sharing my knowledge in this repository.
+👨🏻‍💻 I currently work remotely as a Junior Full Stack Web Developer at 3e Consulting.
 
 <!-- GitHub Stats -->
 
-<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=JefersonLucas&theme=chartreuse-dark&hide_border=true" title="Github Contributions"/>
+<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=JefersonLucas&theme=midnight-purple&hide_border=true" title="Github Contributions"/>
 
-<img alt="Jeferson Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JefersonLucas&theme=chartreuse-dark&show_icons=true&hide_border=true" title="Jeferson Lucas GitHub Stats"/>
+<img alt="Jeferson Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JefersonLucas&theme=midnight-purple&show_icons=true&hide_border=true" title="Jeferson Lucas GitHub Stats"/>
 
 <!-- Skills -->
 
@@ -53,34 +61,29 @@ Recently completed a bootcamp aimed at the full stack, I am looking forward to s
 
 <!-- Languages, libs and frameworks -->
 
-![HTML5](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?fff&style=flat&logo=javascript)
-![Sass](https://img.shields.io/badge/-Sass-000?style=flat&logo=sass)
-![JSON](https://img.shields.io/badge/-JSON-000?style=flat&logo=json&logoColor=1a1a1a)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logoColor=00758f&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logoColor=009547&logo=mongodb)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=fff&logo=node.js&logoColor=5B9856)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=18BCEE)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=18BCEE)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)
+![HTML5](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5&logoColor=9644F4)
+![CSS3](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=9644F4)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?fff&style=flat&logo=javascript&logoColor=9644F4)
+![Sass](https://img.shields.io/badge/-Sass-000?style=flat&logo=sass&logoColor=9644F4)
+![JSON](https://img.shields.io/badge/-JSON-000?style=flat&logo=json&logoColor=9644F4)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=9644F4)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logoColor=9644F4&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logoColor=9644F4&logo=mysql)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=9644F4&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=9644F4)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=9644F4)
 
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonLucas&layout=compact&theme=chartreuse-dark&hide_border=true" title="Top Langs"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonLucas&layout=compact&theme=midnight-purple&hide_border=true" title="Top Langs"/>
 
 Some of the technologies you can find in my GitHub repository:
 
-- 🔠 **Languages**: HTML, CSS, JavaScript, TypeScript and Sass.
-- 🔜 **Frontend**: React, Next.js and Vue.js.
-- 🔙 **Backend**: Node.js.
-- 🧰 **Frameworks**: Bootstrap, Tailwind, Express and Mongoose.
-- 🚀 **Deploys**: Heroku, Vercel and GitHub.
-- 🏷️ **Versioning**: Git and gitflow.
-- 🧪 **Testing and automation**: Jest and Gulp.
-- 🎲 **Database**: MySQL and MongoDB.
-- 🏗️ **Operational systems**: Windows 10 and Linux.
+- 🔜 **Frontend**: Sass, TypeScript, React and Next.js;
+- 🔙 **Backend**: Node.js, TypeScript, Express, Swagger;
+- 🎲 **Database**: MySQL and MongoDB;
+- 🚀 **Deploys**: AWS, Heroku and Vercel;
+- 🏷️ **Versioning**: Git and Git Flow;
 - 👷🏻 **Code architecture**: Object orientation, Rest, Flux and MVC.
-- 📈 **Software Engineering**: Requirements gathering, UML, Scrum and Kanbam.
+- 📈 **Software Engineering**: UML, Scrum and Kanbam.
 
 <!-- Projects -->
 
