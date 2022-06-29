@@ -75,13 +75,13 @@
 
 Some of the technologies you can find in my GitHub repository:
 
-- 🔜 **Frontend**: Sass, TypeScript, React and Next.js;
-- 🔙 **Backend**: Node.js, TypeScript, Express, Swagger;
-- 🎲 **Database**: MySQL and MongoDB;
-- 🚀 **Deploys**: AWS, Heroku and Vercel;
-- 🏷️ **Versioning**: Git and Git Flow;
-- 👷🏻 **Code architecture**: Object orientation, Rest, Flux and MVC.
-- 📈 **Software Engineering**: UML, Scrum and Kanbam.
+● 🔜 **Front-End**: TypeScript, React and Next.js.
+● 🔙 **Back-End**: TypeScript, Node.js, Express and NestJS.
+● 🎲 **Database**: MySQL, PostgreSQL and MongoDB.
+● 🧪 **Tests**: Jest, Cypress and Storybook.
+● 🏷️ **Versioning**: Git, GitHub and Git Flow.
+● 👷🏻 **Code architecture**: POO, SOLID, Rest API, GraphQL and MVC.
+● 📈 **Software Engineering**: Scrum and Kanban.
 
 <!-- Projects -->
 
