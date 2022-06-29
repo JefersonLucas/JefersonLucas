@@ -19,7 +19,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
 ![Updated Badge](https://badges.pufler.dev/updated/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
 
-## Hello how are you? 👋🏻
+## Hello, how are you? 👋🏻
 
 <!-- Social Networks -->
 <p align="left">
@@ -45,9 +45,7 @@
 	<a href="https://jefersonlucas.github.io/portfolio" target="_black"><img alt="Portfólio" src="https://img.shields.io/badge/JefersonLucas-Portf%C3%B3lio-9644F4?style=flat&color=9644F4" title="Portfólio" /></a>
 </p>
 
-🧔🏻 My name is **Jeferson Lucas**, I'm 27 years old, Brazilian graduated in Systems Analysis and Development and I'm also a Full Stack Web Developer passionate about technology, music and games.
-
-👨🏻‍💻 I currently work remotely as a Junior Full Stack Web Developer at 3e Consulting.
+🧔🏻 My name is **Jeferson Lucas**, I'm 27 years old, I'm Brazilian graduated in Systems Analysis and Development and specialized in Full Stack Web Developer.
 
 <!-- GitHub Stats -->
 
