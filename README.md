@@ -12,12 +12,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/JefersonLucas?style=flat&color=9644F4)
 ![GitHub User's stars](https://img.shields.io/github/stars/JefersonLucas?style=flat&color=9644F4)
-![Years Badge](https://badges.pufler.dev/years/JefersonLucas?style=flat&color=9644F4)
-![Repos Badge](https://badges.pufler.dev/repos/JefersonLucas?style=flat&color=9644F4)
-![Visits Badge](https://badges.pufler.dev/visits/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
-![Created Badge](https://badges.pufler.dev/created/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
-![Updated Badge](https://badges.pufler.dev/updated/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
+![Views Counter](https://komarev.com/ghpvc/?username=JefersonLucas&color=blueviolet)
 
 ## Hello, how are you? 👋🏻
 
@@ -45,7 +41,7 @@
 	<a href="https://jefersonlucas.github.io/portfolio" target="_black"><img alt="Portfólio" src="https://img.shields.io/badge/JefersonLucas-Portf%C3%B3lio-9644F4?style=flat&color=9644F4" title="Portfólio" /></a>
 </p>
 
-🧔🏻 My name is **Jeferson Lucas**, I'm 27 years old, I'm Brazilian graduated in Systems Analysis and Development and specialized in Full Stack Web Developer.
+🧔🏻 My name is **Jeferson Lucas**, I'm 28 years old, I'm Brazilian graduated in Systems Analysis and Development and specialized in Full Stack Web Developer.
 
 <!-- GitHub Stats -->
 
@@ -62,9 +58,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5&logoColor=9644F4)
 ![CSS3](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=9644F4)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?fff&style=flat&logo=javascript&logoColor=9644F4)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=9644F4)
 ![Sass](https://img.shields.io/badge/-Sass-000?style=flat&logo=sass&logoColor=9644F4)
 ![JSON](https://img.shields.io/badge/-JSON-000?style=flat&logo=json&logoColor=9644F4)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=9644F4)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logoColor=9644F4&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logoColor=9644F4&logo=mysql)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=9644F4&logo=node.js)
@@ -75,8 +71,9 @@
 
 Some of the technologies you can find in my GitHub repository:
 
-- 🔜 **Front-End**: TypeScript, React and Next.js.
-- 🔙 **Back-End**: TypeScript, Node.js, Express and NestJS.
+- 🔤 **Languages**: JavaScript (ES6+) and TypeScript (v4).
+- 🔜 **Front-End**: React and Next.js.
+- 🔙 **Back-End**: Node.js, Express and NestJS.
 - 🎲 **Database**: MySQL, PostgreSQL and MongoDB.
 - 🧪 **Tests**: Jest, Cypress and Storybook.
 - 🏷️ **Versioning**: Git, GitHub and Git Flow.
